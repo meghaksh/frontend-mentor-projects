@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-projects/static/css/main.9744ae5c.css",
+    "main.js": "/frontend-mentor-projects/static/js/main.7afd0e9f.js",
+    "static/media/image-product-desktop.jpg": "/frontend-mentor-projects/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "index.html": "/frontend-mentor-projects/index.html",
+    "static/media/icon-cart.svg": "/frontend-mentor-projects/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.9744ae5c.css.map": "/frontend-mentor-projects/static/css/main.9744ae5c.css.map",
+    "main.7afd0e9f.js.map": "/frontend-mentor-projects/static/js/main.7afd0e9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9744ae5c.css",
+    "static/js/main.7afd0e9f.js"
+  ]
+}
